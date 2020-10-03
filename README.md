@@ -1,16 +1,15 @@
-### Hi there 👋
+#### About me 👋
 
-<!--
-**mcornella/mcornella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ Sysadmin and developer.
+- 🌍 Based in Barcelona, Spain.
+- 🌺 Maintainer of [@ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/).
+- 💼 Working as a sysadmin managing Linux and Windows systems.
+- 🎯 Looking for work as a web developer.
+- 🛠 Mostly code in JavaScript and shell scripting.
+- 📫 Find me on: [twitter](https://twitter.com/MarcCornella) · [linkedin](https://www.linkedin.com/in/mcornella/) · [email](mailto:marc.cornella@live.com)
 
-Here are some ideas to get you started:
+<a href="https://github.com/mcornella">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcornella&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcornella&layout=compact&theme=vue">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
