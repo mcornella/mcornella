@@ -1,11 +1,10 @@
 👋 **Here's a little bit about me:**
 
-- ✨ Sysadmin and developer.
+- ✨ Web developer and sysadmin.
 - 🌍 Based in Barcelona, Spain.
 - 🌺 Maintainer of [@ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/).
-- 💼 Working as a sysadmin managing Linux and Windows systems.
-- 🎯 Looking for work as a web developer. [Email me!](mailto:hello@mcornella.com)
-- 🛠 Mostly code in JavaScript and shell scripting.
+- 💼 Working as a frontend web developer and sysadmin.
+- 🛠 Mostly code in JavaScript (+ TypeScript) and shell scripting.
 - 📫 Find me on: [twitter](https://twitter.com/MarcCornella) · [linkedin](https://www.linkedin.com/in/mcornella/) · [email](mailto:hello@mcornella.com)
 
 
