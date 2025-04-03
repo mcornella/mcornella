@@ -5,7 +5,7 @@
 - 🌺 Maintainer of [@ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/). [Sponsor me!](https://github.com/sponsors/mcornella)
 - 💼 Working as a full-stack web developer and sysadmin.
 - 🛠 Mostly code in JavaScript (+ TypeScript) and shell scripting.
-- 📫 Find me on: [twitter](https://twitter.com/MarcCornella) · [linkedin](https://www.linkedin.com/in/mcornella/) · [email](mailto:hello@mcornella.com)
+- 📫 Find me on: [mastodon](https://fosstodon.org/@mcornella) · [bluesky](https://bsky.app/profile/mcornella.com) · [linkedin](https://www.linkedin.com/in/mcornella/) · [email](mailto:marc@mcornella.com)
 - 📑 Grab my resumé while you're here: [spanish](https://mcornella.com/cv/spanish.pdf) · [english](https://mcornella.com/cv/english.pdf)
 
 <a href="https://github.com/mcornella">
